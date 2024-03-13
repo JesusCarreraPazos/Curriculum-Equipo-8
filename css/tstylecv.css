@@ -1,0 +1,26 @@
+﻿
+
+h1,li,h2, u1 {
+    text-align: center;
+}
+
+
+img {
+    text-align: center;
+    display: block;
+    margin: auto;
+    border: 2px solid red;
+    height: 340px;
+    width: 250px;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+iframe {
+    text-align: center;
+    width ="200" height="400" style="border:20px solid red;"
+}
+
+
